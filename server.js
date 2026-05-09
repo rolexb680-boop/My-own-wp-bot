@@ -35,7 +35,7 @@ console.log('✅ Firebase Connected!');
 const WHATSAPP_API_KEY = "wapi_c53a93a64d0244269e275c09c65b57b892389de3f0de4d04872bfc1c62f8f1d9";
 const DEVICE_ID = "e67fe72a-2b4a-4a84-8bfd-601b81583052";
 const BASE_URL = "https://whatsapp-api-salution-production.up.railway.app";
-const SERVER_URL = "https://wpbot-tv7o.onrender.com";
+const SERVER_URL = "https://my-own-wp-bot.onrender.com";
 const COHERE_API_KEY = "cohere_bijNme7OCF3XTOgqY5ZEhDAINxe3RJLmnENuKwsu1wfDqT";
 
 // ============= STORAGE =============
